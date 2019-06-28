@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">League Of Splash Art</string>
+    <string name="play_button">Play</string>
+    <string name="sem_mais_ajuda">There is no more to see</string>
+    <string name="voce_nao_possui_ward">You don\'t have any Wards</string>
+    <string name="pular">Skip</string>
+    <string name="jogar">Play</string>
+    <string name="video_nao_carregado">Try again later!</string>
+</resources>

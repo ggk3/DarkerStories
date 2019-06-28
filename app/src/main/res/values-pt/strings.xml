@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">League Of Splash Art</string>
+    <string name="play_button">Jogar</string>
+    <string name="sem_mais_ajuda">Não existe mais nada para ver</string>
+    <string name="voce_nao_possui_ward">Você não possui wards!</string>
+    <string name="pular">Pular</string>
+    <string name="jogar">Jogar</string>
+    <string name="video_nao_carregado">Tente novamente mais tarde!</string>
+</resources>
