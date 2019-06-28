@@ -44,10 +44,6 @@ enum class ChampionsFerroBronzeEnum(var nomeExibicao: String, var resposta: Stri
     ILLAOI( "ILLAOI", "ILLAOI","IXMFLDIAWJKSLHOC", "illaoi.jpg"),
     IRELIA( "IRELIA", "IRELIA","UTFMSLCAWIVEBRIO", "irelia.jpg");
 
-//    TWISTED_FATE("TWISTED FATE", "TWISTEDFATE", "TWISTEDFATEOPSJD", "twistedfate.png"),
-//    NUNU_E_WILLUMP("NUNU E WILLUMP", "NUNUEWILLUMP", "NUNUEWILLUMPPOIU", "twistedfate.png");
-
-
     companion object {
         fun getRandomChampion(jogados: MutableSet<String>): Champion {
             var campeoes = values().toMutableList()

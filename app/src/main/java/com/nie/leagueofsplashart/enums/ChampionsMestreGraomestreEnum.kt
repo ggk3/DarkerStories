@@ -33,7 +33,7 @@ enum class ChampionsMestreGraomestreEnum(var nomeExibicao: String, var resposta:
     AHRI_CHALLENGER( "AHRI", "AHRI","VKYQUTDRISAGHFWX", "ahrichallenger.jpg"),
     AKALI_NURSE( "AKALI", "AKALI","INAHMFOVKPWRELAU", "akalinurse.jpg"),
     ALISTAR_HEXTECH( "ALISTAR", "ALISTAR","TUHSAPQAICBLJYXR", "alistarhextech.jpg"),
-    AMUMU_QUASE_REI_DO_BAILE( "AATROX", "AATROX","LBKPCRIHTAJDWOAX", "amumualmostpromking.jpg"),
+    AMUMU_QUASE_REI_DO_BAILE( "AMUMU", "AMUMU","KMWQRUMYNFAUZEGV", "amumualmostpromking.jpg"),
     ANIVIA_BLACKFROST( "ANIVIA", "ANIVIA","HGXIBNMERKVPAIAZ", "aniviablackfrost.jpg"),
     ANNIE_SUPER_GALAXY( "ANNIE", "ANNIE","NOGIKMFELTRAHPNQ", "anniesupergalaxy.jpg"),
     ASHE_CHAMPIONSHIP( "ASHE", "ASHE","SBOQFZUEXANITMHY", "ashechampionship.jpg"),
